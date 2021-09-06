@@ -1,5 +1,5 @@
 # OPERATING SYSTEM ASSIGNMENT
-Problem Statement : Download the latest stable Linux kernel from kernel.org, compile it, and dual boot it with your current Linux version. Your current version as well as the new version should be present in the grub-menu. \
+Problem Statement : Download the latest stable Linux kernel from kernel.org, compile it, and dual boot it with your current Linux version. Your current version as well as the new version should be present in the grub-menu. 
 
 # Following commands were executed to achieve the solution. 
 1) uname -r (version of linux kernel) 
